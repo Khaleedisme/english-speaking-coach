@@ -1,0 +1,8 @@
+{
+  "name": "English Speaking Coach",
+  "description": "Comprehensive English speaking practice coach for B2-level learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
